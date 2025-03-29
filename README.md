@@ -1,1 +1,2 @@
 # SQL-Injection-Detection
+SQL Injection (SQLi) is a common cyber attack where malicious SQL queries are injected into input fields to manipulate or extract sensitive database information. Traditional security measures, like blacklists and regex-based filtering, often fail against sophisticated attacks. This project employs Machine Learning (ML) and AI to detect SQL injection attacks in real time, improving security for web applications.
